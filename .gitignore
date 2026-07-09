@@ -1,0 +1,19 @@
+# Python
+backend/venv/
+backend/__pycache__/
+backend/.env
+backend/uploads/
+
+# React
+frontend/node_modules/
+frontend/dist/
+
+# Root node modules (agar use ho rahe hain)
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
