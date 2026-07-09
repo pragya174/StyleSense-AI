@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API = "http://127.0.0.1:8000";
+const API = "https://stylesense-ai-backend-qg7n.onrender.com";
 
 export async function analyzeImage(file) {
   const formData = new FormData();
