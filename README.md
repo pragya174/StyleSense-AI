@@ -53,6 +53,7 @@ StyleSense-AI/
 │   └── package.json
 ├── docs/
 └── README.md
+```
 
 ## How It Works
 
@@ -76,12 +77,6 @@ This version focuses on AI-powered hairstyle recommendations based on facial ana
 - Accessories recommendations
 - Advanced AI styling report
 - Mobile application
-
-# StyleSense AI
-
-AI-powered personal styling web application...
-
-...
 
 ## 📸 Preview
 
