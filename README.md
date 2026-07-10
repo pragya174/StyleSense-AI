@@ -76,3 +76,20 @@ This version focuses on AI-powered hairstyle recommendations based on facial ana
 - Accessories recommendations
 - Advanced AI styling report
 - Mobile application
+
+# StyleSense AI
+
+AI-powered personal styling web application...
+
+...
+
+## 📸 Preview
+
+### Home
+![Home](docs/screenshots/home.png)
+
+### Upload
+![Upload](docs/screenshots/upload.png)
+
+### Recommendations
+![Recommendations](docs/screenshots/recommendations.png)
