@@ -80,11 +80,16 @@ This version focuses on AI-powered hairstyle recommendations based on facial ana
 
 ## 📸 Preview
 
-### Home
+## 📸 Application Preview
+
+### 🏠 Home Page
 ![Home](docs/screenshots/home.png)
 
-### Upload
+### 📤 Upload Selfie
 ![Upload](docs/screenshots/upload.png)
 
-### Recommendations
+### ✨ Hairstyle Recommendations
 ![Recommendations](docs/screenshots/recommendations.png)
+
+### 🤖 AI Hairstyle Try-On
+![AI Try-On](docs/screenshots/tryon.png)
